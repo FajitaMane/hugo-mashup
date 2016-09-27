@@ -1,0 +1,21 @@
+theme = "hugo-uno"
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+# baseurl = "localhost"
+baseurl = "http://bedlamhaus.s3-website-us-east-1.amazonaws.com/"
+canonifyurls = true
+title = "Bedlam House"
+author = "Bedlam House Media"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+
+[taxonomies]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Bedlam House"
+  description = "A collection of post-ironic criticism, content, and takes."
+  cover = "/images/cover.jpg"
+  logo = "/images/logo.jpg"

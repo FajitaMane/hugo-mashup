@@ -1,0 +1,4 @@
+#don't commit posts, themes, or front-matter
+content
+favicon.ico
+public
