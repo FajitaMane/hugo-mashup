@@ -1,6 +1,6 @@
 #don't commit posts, themes, or front-matter
 content
 *.ico
-static/images
+*.jpg
 public
 themes
