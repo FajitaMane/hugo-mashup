@@ -7,11 +7,14 @@
                     <h1>{{ .Title }}</h1>
                     {{ .Content }}
                     <p> {{ .Params.position }} </p>
-                    <a href="mailto:{{ .Params.email }}">Email</a> <br><br>
+                    <a href="mailto:{{ .Params.email }}">
+                        <span class="glyphicon glyphicon-envelope"></span>
+                    </a>
                     <a href="https://twitter.com/{{ .Params.twitter }}">Twitter</a>
                 </div>
             </div>
         </div>
     </body>
     {{ partial "script.html" .}}
+    {{ partial "footer.html" .}}
 </html>

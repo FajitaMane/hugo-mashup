@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "content"
+		},
+		{
+			"path": "layouts"
+		},
+		{
+			"path": "static"
+		}
+	]
+}

@@ -1,0 +1,2022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setArrowVisibility"
+			],
+			[
+				"selected",
+				"selectedA"
+			],
+			[
+				"scroll",
+				"scrollIndex"
+			],
+			[
+				"MSG",
+				"MSG_THROTTLE_DELAY"
+			],
+			[
+				"setLegalConta",
+				"setLegalContainerText"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"character",
+				"characterSpeaksLanguage"
+			],
+			[
+				"char",
+				"char_languages"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"save",
+				"saveCharLanguagesObjectFromDOM"
+			],
+			[
+				"browser",
+				"browserIsUnicodeCompliant"
+			],
+			[
+				"abyssal",
+				"abyssalLang"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"is",
+				"timestampIsValid"
+			],
+			[
+				"succesful",
+				"succesful_toss_frames"
+			],
+			[
+				"arg",
+				"arg_button_state"
+			],
+			[
+				"speedom",
+				"speedometer_module"
+			],
+			[
+				"speedometer",
+				"speedometer_needle"
+			],
+			[
+				"speedomen",
+				"speedometer_unit_label"
+			],
+			[
+				"last",
+				"last_frame_menu_text"
+			],
+			[
+				"start",
+				"start_press"
+			],
+			[
+				"labels",
+				"labels_min"
+			],
+			[
+				"needle",
+				"needle_radius_inner"
+			],
+			[
+				"draw",
+				"drawspeedometer"
+			],
+			[
+				"speedo",
+				"speedometer_needle"
+			],
+			[
+				"left",
+				"left_bound"
+			],
+			[
+				"speed",
+				"speedometer_back"
+			],
+			[
+				"score_",
+				"score_increased_last_frame"
+			],
+			[
+				"score",
+				"score_delta_chunks"
+			],
+			[
+				"table",
+				"tablelength"
+			],
+			[
+				"succ",
+				"successful_toss_count"
+			],
+			[
+				"succes",
+				"successful_toss_frames"
+			],
+			[
+				"last_toss",
+				"last_toss"
+			],
+			[
+				"last_",
+				"last_toss_score"
+			],
+			[
+				"hundre",
+				"hundredthou"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/post/8-reasons-justin-trudeau-is.md",
+			"settings":
+			{
+				"buffer_size": 8952,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/save-10k-per-year.md",
+			"settings":
+			{
+				"buffer_size": 9581,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/partials/footer.html",
+			"settings":
+			{
+				"buffer_size": 1483,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo-uno/static/js/jquery.min.js",
+			"settings":
+			{
+				"buffer_size": 95786,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/partials/head.html",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/post/single.html",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dump.log",
+			"settings":
+			{
+				"buffer_size": 4749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/main.js",
+			"settings":
+			{
+				"buffer_size": 4115,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/contributor/john.md",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/contributor/summary.html",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo-uno/layouts/post/single.html",
+			"settings":
+			{
+				"buffer_size": 1213,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/admin/changelog.md",
+			"settings":
+			{
+				"buffer_size": 728,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/admin/zone.md",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/404.html",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/legal.html",
+			"settings":
+			{
+				"buffer_size": 443,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/admin/known-issues.md",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/admin/single.html",
+			"settings":
+			{
+				"buffer_size": 1355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/admin/summary.html",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/css/uno.css",
+			"settings":
+			{
+				"buffer_size": 49489,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/css/night.css",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Windows",
+				"name": ".content-wrapper {"
+			}
+		},
+		{
+			"file": "static/css/lightbox.min.css",
+			"settings":
+			{
+				"buffer_size": 2709,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/post/summary.html",
+			"settings":
+			{
+				"buffer_size": 668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/partials/sharing.html",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/make-american-football-great-again.md",
+			"settings":
+			{
+				"buffer_size": 6866,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/national-anthem-update.md",
+			"settings":
+			{
+				"buffer_size": 13150,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/atrocity-exhibition.md",
+			"settings":
+			{
+				"buffer_size": 1719,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/too-many-kooks/gary-johnson.md",
+			"settings":
+			{
+				"buffer_size": 1699,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/admin/submission-guide.md",
+			"settings":
+			{
+				"buffer_size": 3328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/legal/policy.md",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/legal/single.html",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/post/top-10-pavement-albums.md",
+			"settings":
+			{
+				"buffer_size": 6905,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/hugo-uno/layouts/_default/list.html",
+			"settings":
+			{
+				"buffer_size": 705,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/contributor/list.html",
+			"settings":
+			{
+				"buffer_size": 661,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/contributor/single.html",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/contributor/alec.md",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/_default/list.html",
+			"settings":
+			{
+				"buffer_size": 722,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/index.html",
+			"settings":
+			{
+				"buffer_size": 1462,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/partials/sidebar.html",
+			"settings":
+			{
+				"buffer_size": 5297,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 574,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Hugo/Sites/bedlamhaus/content",
+		"/C/Hugo/Sites/bedlamhaus/content/admin",
+		"/C/Hugo/Sites/bedlamhaus/content/contributor",
+		"/C/Hugo/Sites/bedlamhaus/content/post",
+		"/C/Hugo/Sites/bedlamhaus/content/post/too-many-kooks",
+		"/C/Hugo/Sites/bedlamhaus/layouts",
+		"/C/Hugo/Sites/bedlamhaus/layouts/_default",
+		"/C/Hugo/Sites/bedlamhaus/layouts/admin",
+		"/C/Hugo/Sites/bedlamhaus/layouts/contributor",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials",
+		"/C/Hugo/Sites/bedlamhaus/layouts/post",
+		"/C/Hugo/Sites/bedlamhaus/static",
+		"/C/Hugo/Sites/bedlamhaus/static/css",
+		"/C/Hugo/Sites/bedlamhaus/static/js"
+	],
+	"file_history":
+	[
+		"/C/Hugo/Sites/bedlamhaus/package.json",
+		"/C/Hugo/Sites/bedlamhaus/content/legal/policy.md",
+		"/C/Hugo/Sites/bedlamhaus/config.toml",
+		"/C/Hugo/Sites/bedlamhaus/layouts/404.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/admin/single.html",
+		"/C/Hugo/Sites/bedlamhaus/content/post/8-reasons-justin-trudeau-is.mdown",
+		"/C/Hugo/Sites/bedlamhaus/content/post/national-anthem-update.md",
+		"/C/Hugo/Sites/bedlamhaus/content/post/make-american-football-great-again.md",
+		"/C/Hugo/Sites/bedlamhaus/content/post/atrocity-exhibition.md",
+		"/C/Hugo/Sites/bedlamhaus/content/post/top-10-pavement-albums.md",
+		"/C/Hugo/Sites/bedlamhaus/layouts/taxonomy/tags.html",
+		"/C/Hugo/Sites/bedlamhaus/content/contributor/john.md",
+		"/C/Hugo/Sites/bedlamhaus/content/contributor/alec.md",
+		"/C/Hugo/Sites/bedlamhaus/content/admin/changelog.md",
+		"/C/Hugo/Sites/bedlamhaus/content/admin/note.md",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials/footer.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials/sharing.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials/comments.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/post/single.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/post/summary.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/contributor/single.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/contributor/summary.html",
+		"/C/Hugo/Sites/bedlamhaus/static/js/main.js",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials/sidebar.html",
+		"/C/Hugo/Sites/bedlamhaus/layouts/partials/head.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/_default/list.html",
+		"/C/Hugo/Sites/bedlamhaus/build.log",
+		"/C/Users/John/GitPortable/App/Git/share/vim/vim74/syntax/nosyntax.vim",
+		"/C/Hugo/Sites/bedlamhaus/build.bat",
+		"/C/Hugo/Sites/bedlamhaus/layouts/index.html",
+		"/C/Hugo/Sites/bedlamhaus/static/css/uno.css",
+		"/C/Hugo/Sites/bedlamhaus/.gitignore",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/static/js/main.js",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/index.html",
+		"/C/Hugo/Sites/bedlamhaus/content/post/atrocity-exhibition.mdown",
+		"/C/Hugo/Sites/bedlamhaus/static/js/analytics.js",
+		"/C/Hugo/Sites/bedlamhaus/content/admin/note",
+		"/C/Hugo/Sites/bedlamhaus/layouts/admin/note.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/pages/single.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/taxonomy/tags.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/partials/comments.html",
+		"/C/Hugo/Sites/bedlamhaus/content/post/first-post.md",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/static/css/lightGallery.css",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/_default/terms.html",
+		"/C/Hugo/Sites/blog/themes/purehugo/layouts/index.html",
+		"/C/Hugo/Sites/blog/config.toml",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/static/css/uno.css",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/static/scss/uno.scss",
+		"/C/Hugo/Sites/bedlamhaus/content/contributor/stephen.md",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/partials/script.html",
+		"/C/Hugo/Sites/bedlamhaus/archetypes/layouts/index.html",
+		"/C/Hugo/Sites/bedlamhaus/content/post/second-post.md",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/partials/sharing.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/archetypes/default.md",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/partials/head.html",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/theme.toml",
+		"/C/Hugo/Sites/bedlamhaus/themes/hugo-uno/layouts/rss.xml",
+		"/C/Hugo/Sites/bedlamhaus/archetypes/layouts/partials/head.html",
+		"/C/Hugo/Sites/bedlamhaus/content/second-post.md",
+		"/C/Hugo/Sites/bedlamhaus/content/first-post.md",
+		"/C/Hugo/Sites/bedlamhaus/archetypes/layouts/partials/script.html",
+		"/C/Hugo/Sites/bedlamhaus/archetypes/layouts/_default/list.html",
+		"/C/Hugo/Sites/blog/content/olympics-broadcasting.md",
+		"/C/Hugo/Sites/blog/content/static-comparison.md",
+		"/C/Hugo/Sites/blog/static/css/all.min.css",
+		"/C/Users/John/Desktop/comment.html",
+		"/C/Hugo/Sites/blog/themes/purehugo/layouts/partials/analytics.html",
+		"/C/Hugo/Sites/blog/themes/purehugo/layouts/_default/single.html",
+		"/C/Hugo/rss.xml",
+		"/C/Hugo/Sites/blog/static/css/blog.css",
+		"/C/Hugo/Sites/blog/themes/purehugo/assets/css/blog.css",
+		"/C/Hugo/Sites/blog/static/css/syntax-highlighter.css",
+		"/C/Hugo/Sites/blog/themes/purehugo/static/css/all.min.css",
+		"/C/Users/John/fajitamane.github.io/blog.sublime-project",
+		"/C/Users/John/blog-mockup/index.html",
+		"/C/Users/John/Desktop/PokemonGo_v0.29.0_JADX_decompile/assets/bin/Data/level0",
+		"/C/Users/John/Desktop/get-pip.py",
+		"/C/Users/John/Desktop/brand/css/common.css",
+		"/C/Users/John/Desktop/PokemonGo_v0.29.0_JADX_decompile/com/google/vr/cardboard/Strings.java",
+		"/C/Users/John/AppData/Local/Temp/Temp1_PokémonGO_v0.29.0_apkpure.com_source_from_JADX.zip/Pok+¬monGO_v0.29.0_apkpure.com_source_from_JADX/com/google/vr/cardboard/UiUtils.java",
+		"/C/Users/John/Downloads/14b589649b3c544fea6703107608e981",
+		"/C/Users/John/Downloads/pageviews-20160601-000000",
+		"/C/Users/John/Desktop/brand/node_modules/jquery/dist/jquery.js",
+		"/C/Users/John/Desktop/brand/js/bootstrap.min.js",
+		"/C/Users/John/Desktop/brand/brand.sublime-project",
+		"/C/Users/John/Desktop/brand/css/styles.css",
+		"/C/Users/John/Desktop/brand/js/parallax.js",
+		"/C/Users/John/Documents/post1.txt",
+		"/C/Users/John/Desktop/party-on/README.md",
+		"/C/Users/John/Downloads/dict",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/game/tiles.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/game/bags.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/game/main.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/game/boards.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/game/slots.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/util/parse-words.go",
+		"/C/Users/John/Desktop/words/src/github.com/FajitaMane/util/assets/test1.dict",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/assets/js/landing-page-parallax.js",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/views/about.html",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/assets/css/landing.css",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/hew.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/cnk$17.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/clx.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/bvr.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/bjv.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/cni.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/ckp.java",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/assets/js/landing-page-brandhead.js",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/views/index.html",
+		"/C/Users/John/Desktop/roll20su/styles/options.css",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/assets/css/common.css",
+		"/C/Users/John/Downloads/strings.xml",
+		"/C/Users/John/Downloads/question2.html",
+		"/C/Users/John/Documents/9Mother9Horse9Eyes9BottomlessPit",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/hcf.java",
+		"/C/Users/John/Downloads/The Secret Sanctum of the Gargoyle Knight 06.pdf",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/iik.java",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/values/integers.xml",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/values/ids.xml",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/values/attrs.xml",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/values/arrays.xml",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/raw/hiring_coding_challenge_email.txt",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/raw/crop.bc",
+		"/C/Users/John/AppData/Local/Temp/Temp1_Uber_v3.98.3_apkpure.com_source_from_JADX.zip/Uber_v3.98.3_apkpure.com_source_from_JADX/res/raw/sample_message.json",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/cno$15.java",
+		"/C/Users/John/Desktop/Uber_v3.98.3_apkpure.com_source_from_JADX/bib.java",
+		"/C/Users/John/StudioProjects/party-on/server/party-on/packages/core/system/public/views/thedocket/index.html",
+		"/C/Users/John/Pictures/lenin.jpg"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\Hugo\\Sites\\bedlamhaus"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".navigation",
+			".content-wrapper__inner",
+			"#00",
+			"#0D504",
+			"color: #",
+			"### ",
+			"font-size",
+			"display",
+			"display: none",
+			"float: right",
+			"fair",
+			"Plants",
+			"display: inline",
+			"@media",
+			".post ",
+			".post image",
+			"image",
+			"@media",
+			"sidebar-nav",
+			".tags",
+			"#",
+			"/#blo",
+			"color: ",
+			".post a",
+			"blog",
+			"logo",
+			"#blog",
+			".jpg",
+			">\n",
+			"00352E",
+			"display: none",
+			"font: ",
+			"panel-title",
+			"panel-cover",
+			"hr",
+			".panel",
+			"using hugo",
+			".header",
+			"color:",
+			".sidebar",
+			"backgrou",
+			"background",
+			"color",
+			"background",
+			".sidebar",
+			"align: ",
+			".sidebar",
+			".footer",
+			"color: #fff",
+			"#text-center",
+			"padding: 50",
+			"#text-",
+			"#text-center",
+			".nav",
+			"#text-center",
+			".text-center-title",
+			"img",
+			"challenge",
+			".cover-container",
+			"vh",
+			".brand",
+			".click",
+			"masthead",
+			"position:",
+			"-->\n",
+			"position:",
+			".nav li",
+			"color: ",
+			"border",
+			"color: #fff",
+			"2",
+			"setArrowVisibility",
+			"');\n",
+			"section",
+			".nav",
+			".masthead-brand",
+			"font",
+			"font-style",
+			"font",
+			"brand",
+			".brand",
+			".masthead-brand",
+			"img",
+			".section",
+			".masthead-brand",
+			"#fff",
+			".masthead-brand",
+			"text-shadow",
+			"letter-spa",
+			"letter-spax",
+			".cover",
+			"100px",
+			".cover",
+			".masthead ",
+			"height",
+			"64px",
+			"width:",
+			"color:",
+			"8200px",
+			"masthead",
+			"#fff",
+			"brand",
+			"150px",
+			"height",
+			"knowsGiant",
+			"font-size",
+			"100vh",
+			"margin",
+			"\n.",
+			"parseMsg",
+			"console.log",
+			"dialog",
+			";*/\n",
+			"parseMs",
+			"console.log",
+			"controller(",
+			"critFailController(",
+			"}\n",
+			".send",
+			"Alchemical",
+			").",
+			"cur_lives = ",
+			"getAlbumStorageDir",
+			"dispatchTakePictureIntent",
+			"setPic()",
+			"frame",
+			"frame = 0",
+			"tablelength"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#001F1F",
+			"#text-center-title",
+			"parseCommandMsg",
+			"emu.print"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 38,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/post/8-reasons-justin-trudeau-is.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/post/save-10k-per-year.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "layouts/partials/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/hugo-uno/static/js/jquery.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "layouts/partials/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								576,
+								576
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "layouts/post/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "dump.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "static/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1400,
+								1400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "content/contributor/john.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "layouts/contributor/summary.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "themes/hugo-uno/layouts/post/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1040,
+								1040
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "content/admin/changelog.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "content/admin/zone.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "layouts/404.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "layouts/legal.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "content/admin/known-issues.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "layouts/admin/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "layouts/admin/summary.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "static/css/uno.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44668,
+								44668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57266.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "static/css/night.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".content-wrapper {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "static/css/lightbox.min.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "layouts/post/summary.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "layouts/partials/sharing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1094,
+								1094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "content/post/make-american-football-great-again.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "content/post/national-anthem-update.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "content/post/atrocity-exhibition.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1719
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "content/post/too-many-kooks/gary-johnson.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "content/admin/submission-guide.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "content/legal/policy.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "layouts/legal/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "content/post/top-10-pavement-albums.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6905,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								6905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "themes/hugo-uno/layouts/_default/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								705
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "layouts/contributor/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "layouts/contributor/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								716,
+								716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "content/contributor/alec.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "layouts/_default/list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "layouts/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "layouts/partials/sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2746,
+								2746
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bedlamhaus.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

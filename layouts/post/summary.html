@@ -1,0 +1,22 @@
+<article class="post">
+<header>
+<h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a> </h2>
+<a href="contributor/{{ .Params.authorslug }}">{{ .Params.author }}</a>
+<div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - Read in {{ .ReadingTime }} Min  <br>
+	<em>Filed under: 
+		  {{ range .Params.tags }}
+		    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">&#8226;{{ humanize . }}</a>
+		  {{ end }}
+	</em>
+</div>
+</header>
+<div class="summary">
+
+	<img src="{{ .Params.summarypic }} " /><br>
+    {{ .Summary }}
+</div>
+<footer>
+<a href='{{ .Permalink }}'><nobr>Read more →</nobr></a>
+</footer>
+</article>
+{{ partial "script.html" .}}

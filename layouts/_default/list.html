@@ -1,0 +1,23 @@
+    {{ partial "head.html" . }}
+    <body>
+        {{ partial "sidebar.html" . }}
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+                {{ range first 1 .Data.Pages }}
+                    <h1>{{ humanize .Section }}s</h1>
+                {{ end }}
+                {{ range .Data.Pages.GroupByDate "2006" }}
+                <ul id="list">
+                    {{range .Pages }}
+                    <li>
+                        {{ .Render "summary" }}
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+    {{ partial "footer.html" .}}
+</html>

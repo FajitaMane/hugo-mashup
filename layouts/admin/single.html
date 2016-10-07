@@ -5,12 +5,13 @@
             <div class="content-wrapper__inner">
                 <div class="admin">
                     <h3>{{ " :moneybag: ~ A D M I N ~ :moneybag: <br> :moneybag: ~ Z O N E ~ :moneybag:" | emojify }}</h3>
-                            <b class="navigation__item"><a href="{{ .Site.BaseURL }}admin/note" title="link to {{ .Site.Title }} admin note" class="blog-button">Content Submission Guide</a></b>
+                            <b class="navigation__item"><a href="{{ .Site.BaseURL }}admin/submission-guide" title="link to {{ .Site.Title }} admin note" class="blog-button">Content Submission Guide</a></b>
                             <b class="navigation__item"><a href="{{ .Site.BaseURL }}admin/changelog" title="link to {{ .Site.Title }} admin changelog" class="blog-button">Site Changelog</a></b>
+                            <b class="navigation__item"><a href="{{ .Site.BaseURL }}admin/issues" title="link to {{ .Site.Title }} admin issues" class="blog-button">Known Issues</a></b>
                     <p>Site last updated: 
                         <em>{{ dateFormat "Monday, Jan 2" .Date }} @ {{ .Params.time }}</em>
                         <hr>
-                        <em>50 page hits and 15 visitors as of last update</em>
+                        <em>142 sessions and 31 visitors as of last update</em>
                     </p></em> 
                     {{ .Content }}
                 </div>

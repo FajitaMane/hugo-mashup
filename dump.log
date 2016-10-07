@@ -1,0 +1,34 @@
+Started building site
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Page in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+ERROR: 2016/10/01 13:38:15 template.go:131: template: partials/head.html:10:52: executing "partials/head.html" at <.SiteBaseUrl>: SiteBaseUrl is not a field of struct type *hugolib.Node in partials/head.html
+0 of 1 draft rendered
+0 future content
+10 pages created
+0 non-page files copied
+0 paginator pages created
+0 categories created
+4 tags created
+in 71 ms
+Watching for changes in C:\Hugo\Sites\bedlamhaus\{data,content,layouts,static,themes}
+Serving pages from memory
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop

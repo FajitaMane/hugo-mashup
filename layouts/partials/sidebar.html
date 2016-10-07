@@ -12,14 +12,18 @@
                     <a href="{{ .Site.BaseURL }}/"  title="link to homepage for {{ .Site.Title }}">{{ .Site.Title }}</a>
                 </h1>
                 <hr class="panel-cover__divider" />
-                <em class="panel-cover__description"> {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }}  {{end}} </em>
+                <em class="panel-cover__description"> 
+                    {{ if .Site.Params.description }} {{ .Site.Params.description }} {{ else }}  {{end}} 
+                </em>
                 <hr class="panel-cover__divider panel-cover__divider--secondary" />
-                <h3>Tags</h3>
-                <!-- <ul id="all-tags"> -->
-                      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-                         <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">• {{ $name }}</a> <br>
-                      {{ end }}
-                <!-- </ul> -->
+                <div id="sidebar-nav">
+                    <h3>Tags</h3>
+                    <!-- <ul id="all-tags"> -->
+                          {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+                             <a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">• {{ humanize $name }}</a> <br>
+                          {{ end }}
+                    <!-- </ul> -->
+                </div>
                 <div class="navigation-wrapper">
                     <nav class="cover-navigation cover-navigation--primary">
                         <ul class="navigation">
@@ -28,12 +32,13 @@
                             <li class="navigation__item"><a href="{{ .Site.BaseURL }}tags" title="link to {{ .Site.Title }} contributors" class="blog-button">Tags</a> </li></br>
                             -->
                             <li class="navigation__item"><a href="{{ .Site.BaseURL }}contributor" title="link to {{ .Site.Title }} contributor" class="blog-button">Contributors</a> </li></br>
-                            {{ if .Site.Params.legalnotice }}<li class="navigation__item"><a href="{{ .Site.Params.legalnotice  }}" title="link to the legal notice " class="blog-button">Legal notice</a> </li></br> {{ end }}
+                            <li class="navigation__item"><a href="{{ .Site.BaseURL }}legal/policy" title="link to {{ .Site.Title }} legal policy" class="blog-button">Legal</a> </li></br>
                        </ul>
                     </nav>
 
                 </div>
             </div>
+        </div>
         </div>
         <div class="panel-cover--overlay"></div>
     </div>

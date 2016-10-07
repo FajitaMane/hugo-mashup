@@ -1,0 +1,28 @@
+.content-wrapper {
+	background-color: #000E0E;
+}
+.content-wrapper__inner {
+	background-color: #000E0E;
+}
+html {
+	background-color: #000E0E;
+}
+.nightable {
+	background-color: #000E0E;
+}
+h1, h2, h3 {
+	color: #AA5139;
+	font-family: font-family: "Source Serif Pro", serif;;
+}
+.post h1 {
+	color: #7D1313;
+}
+.post a {
+	color: #7A9F35;
+}
+.post {
+	color: #fff;
+}
+blockquote {
+	background-color: #001F1F;
+}

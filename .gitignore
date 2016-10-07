@@ -4,3 +4,4 @@ content
 *.jpg
 public
 themes
+node_modules

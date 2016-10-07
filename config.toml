@@ -4,7 +4,7 @@ contentdir = "content"
 publishdir = "public"
 builddrafts = false
 # baseurl = "localhost"
-baseurl = "http://bedlamhaus.s3-website-us-east-1.amazonaws.com/"
+baseurl = "http://bedlamha.us/"
 canonifyurls = true
 title = "Bedlam House"
 author = "Bedlam House Media"
@@ -16,6 +16,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
    tag = "tags"
 [Params]
   AuthorName = "Bedlam House"
-  description = "A collection of post-ironic criticism, content, and takes."
+  description = "A digital collection of content, criticism, and takes."
   cover = "/images/cover.jpg"
-  logo = "/images/logo.jpg"
+  logo = "/images/logo.png"
